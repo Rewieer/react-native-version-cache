@@ -1,0 +1,33 @@
+{
+  "name": "react-native-version-cache",
+  "version": "1.0.0",
+  "description": "Cache previous application version to allow doing operation when the user updates it's app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rewieer/react-native-version-cache.git"
+  },
+  "keywords": [
+    "react-native",
+    "version",
+    "cache"
+  ],
+  "author": "Rewieer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rewieer/react-native-version-cache/issues"
+  },
+  "homepage": "https://github.com/Rewieer/react-native-version-cache#readme",
+  "devDependencies": {
+    "jest": "20.0.4"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "dependencies": {
+    "react-native": "^0.47.1"
+  }
+}
