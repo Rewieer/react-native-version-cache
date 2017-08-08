@@ -12,6 +12,10 @@ get from 1 to 2, and an other step to get from 2 to 3.
 
 It relies on AsyncStorage to save the cached version.
 
+## Installation
+
+`npm install react-native-version-cache`
+
 ## Usage
 
 ```js
